@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+I'm currently working on MechaGPT which is a RAG based chatbot for mechanical design of above ground storage tanks using the API650 standard.
 <!--
 **include07/include07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
