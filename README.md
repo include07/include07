@@ -1,11 +1,9 @@
-<h1 align="center">Hi 👋, I'm Jalaleddin EL Firqi</h1>
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=include07&show_icons=true&locale=en&layout=compact" alt="include07" /></p>
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/jalaleddin-el-firqi) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/ELFirqiJ) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:j.elfirqi@gmail.com) 
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=include07&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=include07&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=include07&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=include07&show_icons=true&locale=en" alt="include07" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=include07&" alt="include07" /></p>
-
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
